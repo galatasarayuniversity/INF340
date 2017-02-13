@@ -1,5 +1,13 @@
 # INF340 Mikroişlemciler Dersi 2016/2017
 
+**Eğitmen:** Yrd. Doç. Dr. R. Burak Arslan
+
+**Asistan:** Ar. Gör. Ozan Çağlayan
+
+ - Grup-A Laboratuvar Çalışması: Pazartesi 15:00 - 17:00 (Fizik Lab)
+ - Grup-B Laboratuvar Çalışması: Perşembe 11:00 - 13:00 (Fizik Lab)
+ - Ders: Perşembe 09:00 - 11:00 (A322)
+
 ## Notlandırma
 
 Aşağıdaki oranlar değişiklik gösterebilir
